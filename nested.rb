@@ -90,9 +90,9 @@ def adding_matz
         }
      }
 
-    programmer_hash[:yukihiro_matsumoto = {}].merge(programmer_hash)
-    #contacts["Jon Snow"][:address] = "The Lord Commander's Rooms, The Wall, Westeros"
-     #new_response = {new: 'new_value'}.merge(response)
+     programmer_hash[:yukihiro_matsumoto] = {:known_for => "Ruby", :languages => ["LISP", "C"]}
+     
+     programmer_hash
 end
 
 def changing_alan
