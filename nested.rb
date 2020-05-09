@@ -141,6 +141,10 @@ def adding_to_dennis
   new_language = dennis_ritchie[:languages]
   dennis_ritchie << "Assembly"
   
+#   jon_snow = contacts["Jon Snow"]
+# jons_fav_ice_cream = jon_snow[:favorite_ice_cream_flavors]
+# jons_fav_ice_cream << "mint chip"
+  
   programmer_hash
   
 
