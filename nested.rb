@@ -90,7 +90,8 @@ def adding_matz
         }
      }
 
-    programmer_hash
+    #new_response = {new: 'new_value'}.merge(response)
+    programmer_hash 
    
     
 end
