@@ -137,10 +137,11 @@ def adding_to_dennis
         }
      }
 
-  programmer_hash[:dennis_ritchie][:languages]
+  dennis_ritchie = programmer_hash[:dennis_ritchie]
+  new_language = dennis_ritchie[:languages]
+  dennis_ritchie << "Assembly"
   
+  programmer_hash
   
-jon_snow = contacts["Jon Snow"]
-jons_fav_ice_cream = jon_snow[:favorite_ice_cream_flavors]
-jons_fav_ice_cream << "mint chip
+
 end
