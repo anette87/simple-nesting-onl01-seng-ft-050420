@@ -90,7 +90,7 @@ def adding_matz
         }
      }
 
-    programmer_hash[:yukihiro_matsumoto = {}].merge
+    programmer_hash[:yukihiro_matsumoto = {}].merge(programmer_hash)
     #contacts["Jon Snow"][:address] = "The Lord Commander's Rooms, The Wall, Westeros"
      #new_response = {new: 'new_value'}.merge(response)
 end
